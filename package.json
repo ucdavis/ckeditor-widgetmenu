@@ -1,0 +1,26 @@
+{
+	"name": "ckeditor-widgetmenu",
+	"version": "1.0.0",
+	"description": "The Widget Menu plugin for CKEditor - JavaScript WYSIWYG web text editor.",
+	"author": {
+		"name": "Regents of the University of California",
+		"email": "copyright@ucdavis.edu",
+		"url": "https://www.ucdavis.edu"
+	},
+	"contributors": [
+		{
+			"name": "Mark Miller",
+			"email": "mrkmiller@ucdavis.edu"
+		}
+	],
+	"license": "MIT",
+	"bugs": "https://github.com/ucdavis/ckeditor-widgetmenu/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ucdavis/ckeditor-widgetmenu"
+	},
+	"keywords": [
+		"CKEditor",
+		"Widget"
+	]
+}
