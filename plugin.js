@@ -15,7 +15,7 @@
       editor.addMenuGroup(widgetName);
 
       editor.ui.add(widgetName, CKEDITOR.UI_MENUBUTTON, {
-        label: 'Insert Widget',
+        label: 'Widget Menu',
         icon: this.path + 'icons/widget_menu.png',
         onMenu() {
           const widgets = getWidgetsInGroup(editor);
